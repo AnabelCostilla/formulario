@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    pad: 0;
+   
+}
+
+
+  
+body{
+    font-family: "Playwrite ES Deco", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style:normal;
+    background-image: url(./img.fondo.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+form{
+width:300px;
+margin: 0 auto;
+}
+label{
+    color: aliceblue;
+}
+input,textarea{
+ display: block;
+ margin-bottom: 10px;
+ color: rgb(8, 16, 7);
+ width: 300px;
+}
+
+
+button{
+background-color: rgb(80, 181, 62);
+color: rgb(236, 239, 242);
+padding: 10px 20px;
+cursor: pointer;
+}
